@@ -6,16 +6,16 @@ This app I created personally for me, to calculate my finances.
 
 ## Requierements
 
-OS: Windows, Linux, MacOS
-CPU: If your PC can run browser - he also will run this calculator, easy.
-RAM: 64MB
-Storage: 50KB (size of a compiled app)
+**OS:** Windows, Linux, MacOS
+**CPU:** If your PC can run browser - he also will run this calculator, easy.
+**RAM:** 64MB
+**Storage:** 50KB (size of a compiled app)
 
 ## Some Information
 
-Language: C
-GUI: gtk3
-License: MIT
+**Language:** C
+**GUI:** gtk3
+**License:** MIT
 
 ## Installation
 
@@ -39,3 +39,4 @@ gcc -o mcalculator main.c `pkg-config --cflags --libs gtk+-3.0`
 - [ ] **Keys Support:** If user clicks on '3' (for example), it will click on a '3' button in app's GUI.
 - [ ] **Colors:** Make some button colored, as green, purple, or orange.
 - [ ] **Don't Reset Result, continue to add to him:** After '=' it shouldn't reset matematical operation, it should give to a user possibility to continue to calculate with result which he got.
+- [ ] **Create Logo.**
